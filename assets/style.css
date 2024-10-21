@@ -1,5 +1,5 @@
 body {
-    background-color: bisque;
+    background: url('img/bg-desktop.webp');
 font-family: Bai Jamburee;
 }
 
@@ -7,7 +7,7 @@ font-family: Bai Jamburee;
     display: flex;
 }
 
-.carttao{
+.cartao{
     margin: 1rem 1rem;
     background-color: aqua;
     height: 20rem;
@@ -21,6 +21,12 @@ font-family: Bai Jamburee;
     height: 100%;
     }
     
+   
+   
+   
+   
+   
+   
     .cartao__conteudo h3 {
     background-color: tomato;
     text-align: left;
