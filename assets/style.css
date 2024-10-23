@@ -48,8 +48,8 @@ body {
   color: var(--text-color);
  }
   
-
-
+ .cartao__conteudo__resposta
+  color: var(--card-back-color);
 
 
  footer p { 
